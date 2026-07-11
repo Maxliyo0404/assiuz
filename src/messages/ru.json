@@ -1,8 +1,15 @@
 {
+    
+  "Header": {
+    "about": "О нас",
+    "products": "Продукты",
+    "services": "Услуги",
+    "contact": "Контакты",
+    "install": "Установить"
+  },
+
   "HomePage": {
     "title": "Привет"
-  },
-   "Header": {
-    "logo": "АссиТич"
   }
+   
 }

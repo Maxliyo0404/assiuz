@@ -1,7 +1,10 @@
 export default function Home() {
   return (
-    <main>
-      <h1>Salom, bu mening yangi saytim!</h1>
-    </main>
+   <div className="home" >
+     <div className="container">
+      <h1 className="text-4xl font-bold mt-10">Assalomu alaykum!</h1>
+      <p>Bu mening "Chakra Petch" shriftidagi birinchi sahifam.</p>
+    </div>
+   </div>
   );
 }

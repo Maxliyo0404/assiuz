@@ -1,8 +1,15 @@
 {
+    
+  "Header": {
+    "about": "About Us",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact",
+    "install": "Install"
+  },
+
   "HomePage": {
     "title": "Hello"
-  },
-   "Header": {
-    "logo": "AssiTech"
   }
+   
 }

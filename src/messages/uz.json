@@ -1,8 +1,15 @@
 {
+    
+  "Header": {
+    "about": "Biz haqimizda",
+    "products": "Mahsulotlar",
+    "services": "Xizmatlar",
+    "contact": "Bog'lanish",
+    "install": "O'rnatish"
+  },
+
   "HomePage": {
     "title": "Salom"
-  },
-  "Header": {
-    "logo": "AssiTech"
   }
+  
 }

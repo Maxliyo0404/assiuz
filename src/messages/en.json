@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Your Partner for Digital Transformation",
+    "subtitle": "We provide IT solutions, consulting, and software development services",
+    "cta": "Get Started"
+  },
+  "services": {
+    "title": "Our Services",
+    "itSupport": {
+      "name": "IT Support",
+      "description": "24/7 technical support and rapid problem resolution"
+    },
+    "consulting": {
+      "name": "Consulting Services",
+      "description": "Strategic IT consulting and transformation planning"
+    },
+    "development": {
+      "name": "Software Development",
+      "description": "Modern web and mobile application development"
+    },
+    "cloud": {
+      "name": "Cloud Services",
+      "description": "Cloud infrastructure and migration services"
+    },
+    "security": {
+      "name": "Cybersecurity",
+      "description": "Data protection and security audit services"
+    },
+    "integration": {
+      "name": "System Integration",
+      "description": "System connectivity and automation"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "AssiTech is the leading IT services provider in Uzbekistan. Since 2015, we have been providing digital solutions to enterprises and small businesses.",
+    "mission": "Our mission: To make every company successful through digital transformation.",
+    "team": "Our team consists of 50+ qualified specialists."
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "client1": "Working with AssiTech is easy and effective. They solved all our problems quickly.",
+    "client2": "Professional team and quality service. We recommend them to all companies.",
+    "client3": "We don't worry about IT support anymore."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question or proposal? We're ready to help!",
+    "name": "Your Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "message": "Message",
+    "submit": "Send",
+    "address": "Tashkent, Mirza Ulugbek District, University Street, 4",
+    "phone_display": "+998 (71) 200-00-00",
+    "email_display": "info@assitech.uz"
+  },
+  "footer": {
+    "copyright": "© 2024 AssiTech. All rights reserved.",
+    "links": "Links",
+    "followUs": "Follow Us",
+    "services": "Services",
+    "support": "Support",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}

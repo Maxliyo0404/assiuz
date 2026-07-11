@@ -1,0 +1,75 @@
+{
+  "navigation": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqida",
+    "services": "Xizmatlar",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Bog'lanish"
+  },
+  "hero": {
+    "title": "Raqamli Transformatsiya Uchun Sizning Hamkoringiz",
+    "subtitle": "Biz IT yechimlar, maslahat va software development xizmatlari taqdim etamiz",
+    "cta": "Biz bilan bog'lanish"
+  },
+  "services": {
+    "title": "Bizning Xizmatlar",
+    "itSupport": {
+      "name": "IT Qo'llab-quvvatlash",
+      "description": "24/7 texnik qo'llab-quvvatlash va tezkor muammoni hal qilish"
+    },
+    "consulting": {
+      "name": "Maslahat xizmati",
+      "description": "Strategik IT maslahat va transformatsiya rejalari"
+    },
+    "development": {
+      "name": "Software Development",
+      "description": "Zamonaviy web va mobil ilovalarni ishlab chiqish"
+    },
+    "cloud": {
+      "name": "Cloud Xizmatlar",
+      "description": "Bulutli infratuzilma va migratsiya xizmatlari"
+    },
+    "security": {
+      "name": "Kiberxavfsizlik",
+      "description": "Sizning ma'lumotlaringizni himoyalash va xavfsizlik audit"
+    },
+    "integration": {
+      "name": "Sistema Integratsiyasi",
+      "description": "Turli tizimlarga ulanish va avtomatsiyalash"
+    }
+  },
+  "about": {
+    "title": "Biz Haqida",
+    "description": "AssiTech - Uzbekistonda yetakchi IT xizmatlar ko'rsatuvchi kompaniya. 2015 yildan beri biz korporativ va kichik biznesga raqamli yechimlar taqdim etamiz.",
+    "mission": "Missiyamiz: Har bir kompaniyani raqamli transformatsiya orqali muvaffaq qilish.",
+    "team": "Bizning jamoa 50+ ta malaka ega mutaxassis dan iborat."
+  },
+  "testimonials": {
+    "title": "Kliyentlarimiz Fikri",
+    "client1": "AssiTech bilan ishlash juda oson va samarali. Ular bizning barcha muammolarni tezda hal qilishdi.",
+    "client2": "Professional jamoa va sifatli xizmat. Ularni barcha kompaniyalarga tavsiya qilamiz.",
+    "client3": "IT qo'llab-quvvatlash xizmati haqida xavotir qo'yishimiz shart emas."
+  },
+  "contact": {
+    "title": "Biz bilan bog'lanish",
+    "subtitle": "Sizning savolingiz va takliflaringiz uchun biz bunga tayyor",
+    "name": "Ismingiz",
+    "email": "Email",
+    "phone": "Telefon raqami",
+    "message": "Xabar",
+    "submit": "Yuborish",
+    "address": "Toshkent sh., Mirzo Ulug'bek r., Universitet ko'ch., 4",
+    "phone_display": "+998 (71) 200-00-00",
+    "email_display": "info@assitech.uz"
+  },
+  "footer": {
+    "copyright": "© 2024 AssiTech. Barcha huquqlar himoyalangan.",
+    "links": "Havolalar",
+    "followUs": "Biz kuni kuzatib turing",
+    "services": "Xizmatlar",
+    "support": "Qo'llab-quvvatlash",
+    "privacyPolicy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari"
+  }
+}

@@ -1,9 +1,15 @@
+'use client';
+
+import Hero from '@/Components/Hero/Hero';
+import Services from '@/Components/Services/Services';
+import Testimonials from '@/Components/Testimonials/Testimonials';
+
 export default function Home() {
   return (
-   <div className="home" >
-     <div className="container">
-     
-    </div>
-   </div>
+    <main>
+      <Hero />
+      <Services />
+      <Testimonials />
+    </main>
   );
 }
